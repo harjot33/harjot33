@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harjot</h1>
-<h3 align="center">I like to explore my way around software development and data science. In love with the process of learning new things, failing at them and then finally getting them right! ¯\_(ツ)_/¯</h3>
+<h3 align="center">I like to explore my way around software development and data science. In love with the process of learning new things, sometimes failing at them and then finally getting them right! ¯\_(ツ)_/¯</h3>
 
 - 🔭 I’m currently working on a **cloud-based supply chain tracking system.**
 
