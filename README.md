@@ -5,8 +5,6 @@
 
 - 👯 I’m always up for collaboration on **projects which solve problems which seem trivial but have a huge impact when scaled.**
 
-- 📫 Drop me an email **harjotsingh3397@gmail.com**
-
 - ⚡ When not working,  I like **hiking, playing soccer and writing.**
 
 <h3 align="left">Connect with me:</h3>
